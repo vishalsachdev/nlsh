@@ -1,5 +1,6 @@
-# Secrets
+# Secrets & Config
 .env
+.provider
 
 # Python
 venv/
